@@ -9,6 +9,8 @@
 ![Stars](https://img.shields.io/github/stars/fahd23/CricBazzar-ecom-react)
 
 </div>
+# To preview the site
+<a href="https://ecommerce-site-yashu-mittal.netlify.app/">Demo Link</a>
 
 ---
 
